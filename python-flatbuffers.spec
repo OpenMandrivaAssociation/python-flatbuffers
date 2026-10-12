@@ -1,6 +1,6 @@
 Name:		python-flatbuffers
 Version:	25.12.19
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/f/flatbuffers/flatbuffers-%{version}.tar.gz
 Summary:	The FlatBuffers serialization format for Python
 URL:		https://pypi.org/project/flatbuffers/
